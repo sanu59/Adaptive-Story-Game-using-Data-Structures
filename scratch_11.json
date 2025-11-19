@@ -1,0 +1,1349 @@
+{
+            "start":{
+                "text": "You are Skylar, a self-made archaeologist who spends most of their time in examining stuff and researching about artifacts. One day, you come across an abandoned museum, located at the edge of your town. You enter it and to your surprise, you find out that its filled with some of the rarest items on Earth. Your eyes catch three of them: a type of bone that you have never come across in your years of research, a painting of a horrific ghost that only reveals the image when lifted, and a ring made of some glowing material that looks too high-tech to be kept in a museum. Which one do you pick?",
+                "choices": {
+                    "Bone": "choice1",
+                    "Painting": "choice2"
+                },"score":"0"
+            },
+            "choice1": {
+                "text": "The moment you touch the bone, you are pulled away and you feel yourself shrinking into the thin air. A strange voice demands you to choose between 3 places to go to. You struggle to breathe...Quick! Choose your destination!",
+                "choices": {
+                    "Desert": "choice1.1",
+                    "Abandoned Island": "choice1.2",
+                    "Palace":"choice1.3"
+                }
+            },
+            "choice1.1":{
+                "text": "You shout Desert in a hurry! You swivel into disappearance as you slowly wake up in a puddle of mud. All of this seem weirdly strange to you. You slowly look around not knowing what to do. You realize you are indeed in the middle of a haunted desert. You're surprised to see 3 objects neatly placed in front you...your hands tremble as you slowly move it to grab the...",
+                "choices": {
+                    "Book": "choice1.1.1",
+                    "Mysterious Watch": "choice1.1.2",
+                    "Map": "choice1.1.3"
+                    }
+            },
+            "choice1.1.1":{
+                "text": "You slowly grab the book and you hear a dim whisper...'Skylar...'. The book whips open and the pages fly along your face and reveals a mysterious page with weird symbols and verses. The voice guides you to choose one of the three verses on the page. Trembling with fear, you slowly read...",
+                "choices":{
+                    "Ocean and the river...":"choice1.1.1.1",
+                    "Sky and the star...": "choice1.1.1.2",
+                    "Moon and the swan":"choice1.1.1.3"
+                    }
+            },
+            "choice1.1.1.1": {
+                "text": "The voice recites the verse for you as you listen in fear: 'In the dance of waves, where the ocean meets the river, A tale unfolds, a timeless flow that makes hearts quiver.' The voice asks you what comes to your mind when you hear this verse. Even though your mind is blank as the void, you have no other option but to answer the mysterious voice. Quickly thinking for an answer, you say: ",
+                "choices": {
+                    "Oasis":"choice1.1.1.1.1",
+                    "An Old Ship":"choice1.1.1.1.2",
+                    "Pearl":"choice1.1.1.1.3"
+                    }
+            },
+            "choice1.1.1.1.1":{
+                "text":": With a chosen object in hand, Skylar's surroundings shimmered, and he found himself back in the museum, the mysterious bone still pulsating with ancient secrets, leaving him forever changed by the enigmatic journey through realms unknown.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.1.1.2":{
+                "text":":As Skylar makes his final choice, a mysterious force envelops him, merging the realms of desert, ancient verses, and the dance of waves, unlocking a destiny intertwined with the threads of time and unveiling the secrets of the bone's enigmatic power.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.1.1.3":{
+                "text":":As Skylar, holding the chosen item, closes his eyes, a mysterious force envelops him, and the world around him fades away. In that ephemeral moment, Skylar transcends into a realm of endless possibilities, where the echoes of his journey linger in the air, leaving an indelible mark on the fabric of the universe.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },           
+            "choice1.1.1.2":{
+                "text":"The voice recites the verse for you as you listen in fear: 'Sky and the star, a cosmic ballet, Dancing in the night, their radiant display.' The voice asks you what comes to your mind when you hear this verse. Even though your mind is blank as the void, you have no other option but to answer the mysterious voice. Quickly thinking for an answer, you say: ",
+                "choices":{
+                    "Comet":"choice1.1.1.2.1",
+                    "Stone":"choice1.1.1.2.2",
+                    "Spaceship": "choice1.1.1.2.3"
+                    }
+            },
+            "choice1.1.1.2.1":{
+                "text":"As Skylar contemplates the cosmic ballet and the choices that led him here, he realizes that the universe holds infinite stories, waiting to be explored, and his journey is just beginning",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.1.2.2":{
+                "text":"As Skylar contemplates his choices under the cosmic ballet, the desert winds whisper secrets of celestial adventures, urging him to embrace the unknown. With newfound courage, he sets forth into the starlit expanse, leaving behind the echoes of the bone's mysterious journey",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.1.2.3":{
+                "text":"As Skylar contemplates his choices, the desert winds whisper ancient secrets, guiding him towards an extraordinary destiny beyond the realms of time and space.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.1.3":{
+                "text":"The voice recites the verse for you as you listen in fear: 'Beneath the moon's soft, silver span, A graceful swan glides, a dance began.' The voice asks you what comes to your mind when you hear this verse. Even though your mind is blank as the void, you have no other option but to answer the mysterious voice. Quickly thinking for an answer, you say: ",
+                "choices":{
+                    "Snow":"choice1.1.1.3.1",
+                    "Feather":"choice1.1.1.3.2",
+                    "A man": "choice1.1.1.3.3"
+                    }
+            },
+            "choice1.1.1.3.1":{
+                "text":"Awakening in the mysterious desert, Skylar stands amidst three intriguing objects, each holding a tale of its own. As he contemplates his choice, a haunting verse unfolds, leading him on an adventure where the moon and swan weave a story beyond the sands of time.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.1.3.2":{
+                "text":"Lost in the vastness of the desert, Skylar's choice shapes his destiny. Whether guided by the mysterious verse or a feather's silent wisdom, Skylar embarks on a journey where the echoes of the moon and the grace of a swan intertwine with the sands of time, unveiling a tale written in the celestial script of the universe.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.1.3.3":{
+                "text":"As Skylar contemplates the objects surrounding him in the desert, a distant howl echoes through the silent night, leaving him with an unsettling feeling that his choices have set in motion an extraordinary and mysterious journey beyond the realms of ordinary existence.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.2": {
+                "text": "You slowly move your hand to grab the watch. You take it in your hand and desperately try to look at the time. But instead of showing the time, the watch display shows you images of three time ages. The mysterious voice appears again and demans you to choose one. You hurriedly pick...",
+                "choices": {
+                    "Stone age":"choice1.1.2.1",
+                    "Ice age":"choice1.1.2.2",
+                    "Bronze age":"choice1.1.2.3"
+                    }
+            },
+            "choice1.1.2.1":{
+                "text":"You choose Stone age. As soon as you say it you swivel into thin air again and fall hard upon the rocks of the ancient era. You look around to find that you have landed right in the middle of a village with ancient looking people, now fiercely staring at you and your modern attire. Desperate times call for desperate measures...",
+                "choices":{
+                    "Fight with the people":"choice1.1.2.1.1",
+                    "Try to communicate":"choice1.1.2.1.2",
+                    "Run away":"choice1.1.2.1.3"}
+            },
+            "choice1.1.2.1.1":{
+                "text":"As Skylar, armed with newfound knowledge and experiences, makes his final choice in the Stone Age, he begins a journey to unravel the mysteries of time, forever leaving a mark on the tapestry of history.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.2.1.2":{
+                "text":"As Skylar navigates the challenges of the Stone Age, learning to communicate and survive, he discovers that the mysterious watch was a key to unlocking hidden portals in time. In the end, having experienced various eras, Skylar stands at the crossroads of time, forever changed by his journey through the ages.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.2.1.3":{
+                "text":"As Skylar contemplates his choices, he decides to run away, navigating the unfamiliar landscape of the Stone Age. Little does he know that his journey through time is just beginning, and the mysterious watch on his wrist holds the key to unlocking the secrets of the ancient world and beyond.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.2.2":{
+                "text":"You shout Ice Age! You suddenly lose your breath again and get pushed into a void darkness. When you regain consciousness, you feel ice cool breeze through you hair and realize you are right in the middle of ice age. You shiver and tremble in fear not knowing what to do. You suddenly:",
+                "choices":{
+                    "Encounter a huge mammoth":"choice1.1.2.2.1",
+                    "Start building a fire to warm yourself":"choice1.1.2.2.2",
+                    "start looking for a creature with suit":"choice1.1.2.2.3"
+                    }
+            },
+            "choice1.1.2.2.1":{
+                "text":"As the cold winds of the ice age swirl around him, Skylar, now face to face with a majestic mammoth, realizes that the bone has granted him the power to traverse through time and witness the wonders of Earth's past.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.2.2.2":{
+                "text":"As Skylar contemplates the flickering flames in the icy wilderness, he realizes that the choices made with the mysterious watch have opened doors to uncharted realms, leaving him with the eternal allure of exploration and the unfolding mysteries of time.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.2.2.3":{
+                "text":"As Skylar confronts the mysterious creature in the icy landscape, it reveals itself to be a guardian of time and space. Grateful for Skylar's choices, it offers him the chance to continue exploring the wonders hidden within the vast realms of the universe.",
+                "choices":{
+                        "Next":"choice1.1.2.2.3.1"
+                }
+            },
+            "choice1.1.2.2.3.1":{
+                "text":"He slowly closes his eys to relax, but he is once again pulled into the mysterious whirlpool of msytery. When he opens his eyes, he sees a wooden door in front of him",
+                "choices":{
+                        "Next":"choice2.1"
+                }
+            },
+            "choice1.1.2.3":{
+                "text":"You scream Bronze Age! You realize you've chosen the worst of the three. You land yourself in a: ",
+                "choices":{
+                    "Battle":"choice1.1.2.3.1",
+                    "Fort":"choice1.1.2.2.3.2",
+                    "Forest":"choice1.1.2.3.3"
+                    }
+            },
+            "choice1.1.2.3.1":{
+                "text":"As Skylar stands amidst the ancient battlefield, he realizes that the mysterious watch holds the power to transport him through time and space, leaving the choice of his next adventure hanging in the balance.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.2.3.2":{
+                "text":"As Skylar, now surrounded by the ancient walls of a mysterious fort, contemplates his journey, he realizes that the choices made with the bone and the objects have woven a tale that transcends time, revealing secrets hidden in the sands of history.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.2.3.3":{
+                "text":"As Skylar, surrounded by the enchanting mysteries of the forest, contemplates his next move, he realizes that his journey through time and space has only just begun, with uncharted realms awaiting discovery at every turn.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.3":{
+                "text":"You slowly grab the map. Upon seeing it, you realize three places being marked on it. The mysterious voice appears again and demands you to choose any one. You choose...",
+                "choices":{
+                    "Athina":"choice1.1.3.1",
+                    "Sparti":"choice1.1.3.2",
+                    "Thiva":"choice1.1.3.3"
+                    }
+            },
+            "choice1.1.3.1":{
+                "text":"You swivel into darkness and find yourself standing now in the middle of Greece. Such a welcoming land, you think. But the thought disppears as you are soon arrested by the guards of the royal palace and forced to meet the king. But you get support from the local people. The guards let you choose decide your fate...",
+                "choices":{
+                    "Meet God":"choice1.1.3.1.1",
+                    "Meet the king":"choice1.1.3.1.2",
+                    "Meet the wise old woman suggested by people":"choice1.1.3.1.3"
+                    }
+            },
+            "choice1.1.3.1.1":{
+                "text":"The god, impressed by Skylar's journey through time, grants him a powerful artifact as a reward, sending him back to the present with newfound wisdom and an extraordinary tale to share.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.3.1.2":{
+              "text":"The king sentences you to death. But what? Why? Well, you can ponder over that in heaven...",
+              "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.3.1.3":{
+              "text":"Choosing to meet an old woman, she imparts timeless wisdom, leaving Skylar forever changed. But was this even worth it?",
+              "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.3.2":{
+                "text":"You swivel into darkness and find yourself standing now in the middle of a Greek site. You finally feel relazed after seeing the calm nature of the people around you. You feel free for a moment. You decide to:",
+                "choices":{
+                    "Take part in a competition":"choice1.1.3.2.1",
+                    "Ride a horse":"choice1.1.3.2.2",
+                    "Steal food":"choice1.1.3.2.3"
+                    }
+            },
+            "choice1.1.3.2.1":{
+              "text":"As Skylar stands victorious in the ancient Greek competition, the once-lost bone in his hand emanates a mysterious glow, hinting at the countless adventures awaiting him across the folds of time and space",
+              "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.3.2.2":{
+              "text":"Skylar jumps on the horse and rides elegantly. As Skylar faces new adventures and realms, the story concludes with an air of mystery, promising more enchanted discoveries in his extraordinary odyssey",
+              "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.3.2.3":{
+                "text":"In Sparta, Skylar contemplates his choices and decides to stealthily procure food. Little does he know that this seemingly simple act will set off a chain of events leading to unforeseen consequences. But will you last to witness all those with the poisoned food you just took?",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.3.3":{
+                "text":"You swivel into darkness and find it difficult to breathe again. The voice appears again and says 'You've chosen the worst of the three. I give you three options to land in. Choose wisely...",
+                "choices":{
+                    "Church":"choice1.1.3.3.1",
+                    "Stuck in a war":"choice1.1.3.3.2",
+                    "Lost in a market":"choice1.1.3.3.3"
+                    }
+            },
+            "choice1.1.3.3.1":{
+                "text":"Standing amidst the ancient Greek ruins, Skylar contemplates the journey that led him from a mysterious bone to the heart of Thiva, realizing that the threads of history have woven a tapestry of discovery and adventure, waiting to be explored.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.3.3.2":{
+                "text":"As you open your eyes, you see yourself right in the middle of a war. I guess that's it for you then.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.1.3.3.3":{
+                "text":"As Skylar navigates the bustling market of Thiva, he reflects on the unpredictable journey sparked by a mysterious bone, knowing that the choices he made led him to an ancient Greek adventure, forever altering the course of his archaeological pursuits.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2":{
+                "text":"You shout the Island! You swivel into disappearance as you slowly wake up in a puddle of greasy water. All of this seem weirdly strange to you. You slowly look around not knowing what to do. You realize you are right in the heart of an abandoned island. The mysterious voice appears again,not to help you but guide you into more misery as it demands you to choose 1 of the 3 options ahead of you to get out this island.",
+                "choices":{
+                    "See the disfigured creature for help":"choice1.2.1",
+                    "Entour the mysterious path":"choice1.2.2",
+                    "Find the ship":"choice1.2.3"
+                    }
+            },
+            "choice1.2.1":{
+                "text":"You know very well that could possibly be the worst choice of the three. But you still daringly choose it. As soon you say this, the voice disappears and a mysterious disfigured creature appears before you. It is at this moment that you realize, you have landed in hell...",
+                "choices":{
+                    "Run away":"choice1.2.1.1",
+                    "Obey his orders":"choice1.2.1.2",
+                    "Try to fight him":"choice1.2.1.3"
+                    }
+            },
+            "choice1.2.1.1":{
+                "text":"You decide its now or never and take off. But you are so on top of your head and heels that you have no idea here you are running. After a minute of running, you take shelter behind a tree and stop for a moment to get your breath back only to turn back and...",
+                "choices":{
+                    "Fall Down":"choice1.2.1.1.1",
+                    "Encounter a new species":"choice1.2.1.1.2",
+                    "Faint":"choice1.2.1.1.3"
+                    }
+            },
+            "choice1.2.1.1.1":{
+                "text":"As Skylar flees from the disfigured creature, he stumbles and falls, triggering a mysterious mechanism that transports him to an abandoned island. As he regains consciousness, the bone pulsates in his hand, hinting at a connection between the island and the enigmatic artifact, setting the stage for a new chapter in Skylar's unexpected journey.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.1.1.2":{
+                "text":"As Skylar flees the disfigured creature, he stumbles upon a hidden portal on the abandoned island, leading him to an undiscovered realm teeming with enigmatic species and uncharted wonders, marking the beginning of his extraordinary journey into the unknown.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.1.1.3":{
+                "text":"As Skylar flees from the disfigured creature, he stumbles upon an ancient portal hidden in the dense foliage. With a leap of faith, he enters the portal, leaving the mysterious island behind. Little did he know, his journey had just begun, and the bone's secret unfolded in unexpected dimensions.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.1.2":{
+                "text":"You realize you are in no way going to match him in a fight, and just decide to listen to whatever he says, but his orders are frightening and disgusting. Well, it's a monster after all...",
+                "choices":{
+                    "Bring him food":"choice1.2.1.2.1",
+                    "Clean his house":"choice1.2.1.2.2",
+                    "Be his prisoner":"choice1.2.1.2.3"
+                    }
+            },
+            "choice1.2.1.2.1":{
+                "text":"As Skylar, now navigating the abandoned island and interacting with the disfigured creature, discovers the secrets hidden within its cryptic messages, a bond forms between them, unveiling an unforeseen alliance that transcends the realms of the ordinary and the extraordinary.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.1.2.2":{
+                "text":"Skylar has no idea of helping him clean his house. But there is no other choice. : In the twilight of the abandoned island, Skylar, having embraced the enigmatic power of the bone, reshapes the destiny of the disfigured creature, weaving a tale of unlikely companionship and unlocking the secrets that bind their fates.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.1.2.3":{
+                "text":"Lol. Bad move!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.1.3":{
+                "text":"It was a fight or flight situation, but you have decided to test your strengths. You look for tools to fight the creature and three things strike your eyes immediately, Quick! The monster doesn't look too friendly...",
+                "choices":{
+                    "Stone":"choice1.2.1.3.1",
+                    "Stick":"choice1.2.1.3.2",
+                    "Knife":"choice1.2.1.3.3"
+                    }
+            },
+            "choice1.2.1.3.1":{
+                "text":"As Skylar confronts the disfigured creature on the abandoned island, he instinctively chooses to defend himself with the stone. The encounter unfolds into a test of survival, revealing the mysteries of the bone's transporting power and the challenges that lie ahead on this enigmatic island.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.1.3.2":{
+                "text":"Seriously? Bruh! A stick to fight a monster?",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.1.3.3":{
+                "text":"As Skylar navigates the mysterious island, he realizes that the disfigured creature and the knife-wielding assailant were mere illusions, tests of his resilience and wit. The bone, now a key to unlocking hidden knowledge, guides him towards a newfound understanding of the island's secrets.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.2":{
+                "text":"You decide to entour on the mysterious path. As you run short of breath, you encounter 3 mysterious things. You have to choose one to proceed further",
+                "choices":{
+                    "An old house":"choice1.2.2.1",
+                    "A monkey":"choice1.2.2.2",
+                    "A rafflesia":"choice1.2.2.3"
+                    }
+            },
+            "choice1.2.2.1":{
+                "text":"You slowly enter the house only to be a greeted by a smiling evil witch. You hear the scream of a little girl from a cage behind the witch but the witch has already locked you inside the house. 'Welcome oh traveller!' She says...'Now, be a good man and help me make this potion to cook this girl'. Damn! That was unexpected...Quick! Think of something",
+                "choices":{
+                    "Cook the potion":"choice1.2.2.1.1",
+                    "Save the girl":"choice1.2.2.1.2",
+                    "Run away":"choice1.2.2.1.3"
+                    }
+            },
+            "choice1.2.2.1.1":{
+                "text":"In the flickering candlelight of the old house, Skylar and the witch share tales of ancient magic and lost civilizations, forging an unexpected alliance that promises both mystery and adventure in the enchanted realms of the unknown",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.2.1.2":{
+                "text":"As Skylar bravely faces the witch and saves the little girl, a mysterious portal opens, offering him a chance to return home with newfound wisdom and the echoes of a fantastical adventure etched into his soul",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.2.1.3":{
+                "text":"Best choice in that moment",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.2.2":{
+                "text":"The monkey looks at you in awe as you slowly back away. But to your utter surprise, it starts speaking to you in a human voice. 'Well, well, well, if it isnt Skylar...'. You are shocked to hear this strange monkey knowing your name and speaking like a humnan. 'You may come with me to meet our group leader and take this capsule and run away...'. Well no one knows what the monkey leader is gonna do and no one knows what the capsule's gonna do either...",
+                "choices":{
+                    "Meet the monkey leader":"choice1.2.2.2.1",
+                    "Seek help":"choice1.2.2.2.2",
+                    "Take the capsule":"choice1.2.2.2.3"
+                    }
+            },
+            "choice1.2.2.2.1":{
+                "text":"As Skylar stands before the monkey leader, it communicates with him using a mysterious language, revealing the island's ancient secrets and the reason behind his inexplicable journey. Together, they embark on a new quest to unlock the island's hidden wonders and forge an unlikely alliance between humans and island-dwelling primates.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.2.2.2":{
+                "text":"You ask for help, and the monkey asks for a banana. Well, you search for one, but you dont get it. And the monkey charges upon you as you struggle to fight it. But its too late now",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.2.2.3":{
+                "text":"The monkey, with an air of wisdom in its eyes, accepts Skylar's capsule, and in that exchange, a bond forms between Skylar and the island's mystical inhabitants, setting the stage for a new chapter in Skylar's extraordinary journey.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.2.3":{
+                "text":"You've heard of them, but you have never see them in your life. Such big gigantic flowers. The petals move kind of in a weird way and you realize they are slowly moving towards you...Nuh Uh! You aren't gonna be eaten by a flower, are you?",
+                "choices":{
+                    "Try to cut with your knife":"choice1.2.2.3.1",
+                    "Run away":"choice1.2.2.3.2",
+                    "Climb a tree":"choice1.2.2.3.3"
+                    }
+            },
+            "choice1.2.2.3.1":{
+                "text":"As Skylar attempts to cut the approaching Rafflesia with his knife, he realizes it's not an ordinary flower but a sentient being. The Rafflesia communicates with Skylar, expressing gratitude for awakening it, and together, they embark on a unique journey, discovering the secrets of the abandoned island and forging an unexpected alliance that transcends the boundaries of the known world.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.2.3.2":{
+                "text":"Startled by the moving flower, Skylar decides to run away, triggering a series of mystical events that lead him to a portal, transporting him to a realm where time is fluid, and his choices shape the course of ancient and future worlds.In the end, Skylar faces a choice that will determine not only his fate but the destiny of the realms he has encountered.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.2.3.3":{
+                "text":"Alright, you climb the tree. Now what? You sit there until you slowly rust and dry...",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.3":{
+                "text":"You decide to enter the lonely ship and salvage something for survival. As soon as you get on the ship, three things strike your eyes. You pick up the...",
+                "choices":{
+                    "Toolbox":"choice1.2.3.1",
+                    "Photograph":"choice1.2.3.2",
+                    "Food":"choice1.2.3.3"
+                    }
+            },
+            "choice1.2.3.1":{
+                "text":"You gasp as you pick the toolbox and pry it open. You didn't expect these things to be present in the box but you aren't sad either. You grab the...",
+                "choices":{
+                    "Gun":"choice1.2.3.1.1",
+                    "Knife":"choice1.2.3.1.2",
+                    "Bomb":"choice1.2.3.1.3"
+                    }
+            },
+            "choice1.2.3.1.1":{
+                "text":"As Skylar examines the gun from the toolbox, he realizes it holds a vital clue to his mysterious journey, unveiling a connection between the bone's ancient power and the enigmatic island that now stands as a gateway to unforeseen realms. But Skylar doesn't have any food...that's a sad end.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.3.1.2":{
+                "text":"As Skylar grabs the knife, he is again rivalled into a void",
+                "choices":{
+                        "Next":"choice1.3.1.1"
+                }
+            },
+            "choice1.2.3.1.3":{
+                "text":"BOOM! It blasts and so does Skylar!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.3.2":{
+                "text":"You pick up the photograph, but this one's a mysterious one. It reveals three different pictures. You carefully look at the one showing...",
+                "choices":{
+                    "Your grandparents":"choice1.2.3.2.1",
+                    "Yourself":"choice1.2.3.2.2",
+                    "Your enemy at school":"choice1.2.3.2.3"
+                    }
+            },
+            "choice1.2.3.2.1":{
+                "text":"As Skylar gazes upon the photograph of his grandparents, he realizes that the bone's touch has not only transported him to an abandoned island but also offered a chance to uncover his family's forgotten legacy, weaving together the threads of the past and present in an unexpected journey of self-discovery.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.3.2.2":{
+                "text":"Wait what? You turn around to find a huge tsunami coming toward your island...is this a dream?",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.3.2.3":{
+                "text":"You feel a tight slap across your face as you wake up in the museum...whew! A dream that was!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.3.3":{
+                "text":"You grab the food in hunger, but as you take a closer look, you realize that the food looks funny with a slimy liquid on top of it. Next the to the food, you see a purring cat sitting. Well, it could be that, but you are hungry as well...",
+                "choices":{
+                    "Taste it":"choice1.2.3.3.1",
+                    "Throw it away":"choice1.2.3.3.2",
+                    "Feed the cat":"choice1.2.3.3.3"
+                    }
+            },
+            "choice1.2.3.3.1":{
+                "text":"As Skylar tastes the mysterious food on the abandoned island, a surge of energy courses through him, revealing that the island is a haven for time-traveling explorers, and he now holds the key to unlocking its secrets.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.3.3.2":{
+                "text":"The cat pounces on you only to transform into a tiger. Well a story that was!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.2.3.3.3":{
+                "text":"As soon as you feed the cat, it transforms into a huge tiger, but it doesnt eat you. It talks to you in a female voice. 'You have proved worthy'. You spin off into the void and wake up in the museum again. COOL!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3":{
+                "text":"You scream 'The palace!', and as soon as you say it your breath gets taken away and you try to gasp for air. You swivel into darkness and as soon as you oopen your eyes, you see yourself lying on the grounds of a huge palace. Well, what a beuatiful sight it was. But that didnt last long enough. You wake and sit up only to look at the...",
+                "choices":{
+                    "Servant":"choice1.3.1",
+                    "Princess":"choice1.3.2",
+                    "A thief hiding in a bush":"choice1.3.3"
+                    }
+            },
+            "choice1.3.1":{
+                "text":"You realize he is one of the royal servants, and you dont know what he might do when he sees you in the royal grounds. Quick, think of something!",
+                "choices":{
+                    "Hide yourself":"choice1.3.1.1",
+                    "Hit him":"choice1.3.1.2",
+                    "Ask him for help":"choice1.3.1.3"
+                    }
+            },
+            "choice1.3.1.1":{
+                "text":"You look around for possible places to hide yourself. But nothing hits your eyes. Suddenly a door at the far end of the corner hits your eyes, but there's a chest right next to the door. Well you could also try leaving the palace, but hey, think of it quickly!",
+                "choices":{
+                    "Enter the room":"choice1.3.1.1.1",
+                    "Open the chest":"choice1.3.1.1.2",
+                    "Leave the palace":"choice1.3.1.1.3"
+                    }
+            },
+            "choice1.3.1.1.1":{
+                "text":"As Skylar navigates the abandoned palace, the servant reveals the bone's magical properties, and together, they embark on a quest to unravel the mysteries hidden within the ancient walls, forging an unexpected alliance that transcends time and space.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.1.1.2":{
+                "text":"As Skylar opens the chest, he discovers an ancient map leading to a realm filled with magical artifacts. With newfound courage, he sets out on a quest, leaving the abandoned palace behind, destined for extraordinary adventure",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.1.1.3":{
+                "text":"Skylar, now faced with a choice, cautiously navigates the abandoned palace's corridors, contemplating the mysterious connection between the bone and the enigmatic surroundings and escapes the palace only to find himself back in the museum. Yeah, that's quite weird!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.1.2":{
+                "text":"Well, he is just a servant, how hard can it be to sabotage him?",
+                "choices":{
+                    "Kill him":"choice1.3.1.2.1",
+                    "Threaten him":"choice1.3.1.2.2",
+                    "Take his batch":"choice1.3.1.2.3"
+                    }
+            },
+            "choice1.3.1.2.1":{
+                "text":"Now that triggered an alarm didn't it. Good luck spending time in jail!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.1.2.2":{
+                "text":"As Skylar navigates the abandoned palace, the servant leads him through forgotten corridors and hidden chambers, unraveling the secrets of the past and unveiling the fate of the long-lost king. You're lost I guess?",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.1.2.3":{
+                "text":": In the shadowy corridors of the abandoned palace, Skylar's actions set in motion an unforeseen chain of events. As he walks through the echoing halls, the weight of the servant's badge clutched in his hand, the palace whispers of forgotten secrets, leaving Skylar with the haunting echoes of a past long concealed. But that's for another day!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.1.3":{
+                "text":"He is a servant. He is bound to help. You stop him and ask him for help. And he is just as sweet as he looks. He asks what help do you require?",
+                "choices":{
+                    "A way out of the palace":"choice1.3.1.3.1",
+                    "To meet the king":"choice1.3.1.3.2",
+                    "The find a magician":"choice1.3.1.3.3"
+                    }
+            },
+            "choice1.3.1.3.1":{
+                "text":"Nope! He just calls the guards and yeah, you should've guessed by now the story was never in your favour!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.1.3.2":{
+                "text":"He takes you to the king, who gives you a potion to drink. As soon as you drink it, you wake up back in the museum. WHOO!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.1.3.3":{
+                "text":"Bruh! There's no one like that! You are just doomed!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.2":{
+                "text":"You realize its the royal princess...Wow! Should you listen to your mind or your heart?",
+                "choices":{
+                    "Threaten":"choice1.3.2.1",
+                    "Seek help":"choice1.3.2.2",
+                    "Fall in love":"choice1.3.2.3"
+                    }
+            },
+            "choice1.3.2.1":{
+                "text":"Mind it is! You grab and threaten her. You shout: ",
+                "choices":{
+                    "Give me your jewellery!":"choice1.3.2.1.1",
+                    "Help me escape!":"choice1.3.2.1.2",
+                    "Help me loot the kingdom!":"choice1.3.2.1.3"
+                    }
+            },
+            "choice1.3.2.1.1":{
+                "text":"Despite Skylar's initial threat, the princess's kindness and Skylar's realization of the palace's historical importance lead him to abandon his sinister intentions. Together, they embark on a quest to restore the kingdom's former glory, turning a potential adversary into an unexpected ally in their shared journey through time.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.2.1.2":{
+                "text":"As Skylar gazes at the princesses, he realizes that his adventure has only just begun, and the mysteries of the ancient palace and the bone's magical properties unfold in ways he could never have imagined.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.2.1.3":{
+                "text":"As Skylar ventures through the secret path, guided by the princess, he discovers the key to unraveling the bone's mysterious power and unlocking the untold wonders hidden within the enigmatic palace, forever altering the course of his archaeological pursuits.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.2.2":{
+                "text":"No mind or heart! Help it is! You confront her and beg her for help!",
+                "choices":{
+                    "Help me get back!":"choice1.3.2.2.1",
+                    "Get me on a path out of here!":"choice1.3.2.2.2",
+                    "Hide me from the soldiers!":"choice1.3.2.2.3"
+                    }
+            },
+            "choice1.3.2.2.1":{
+                "text":"'As you wish...' she says and spins you into a void. You close your eyes and to your surprise you see yourself standing back in the museum. Whew! A journey that was!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.2.2.2":{
+                "text":"As Skylar and the princess exchange a final glance, a celestial portal opens, whisking them away to a realm where their love story transcends time, leaving the abandoned palace to echo with the whispers of an everlasting romance.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.2.2.3":{
+                "text":"She helps you to hide but what use is it anyway? You are stuck here forever!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.2.3":{
+                "text":"Heart it is! You slowly confront her and introduce yourself. Quick! Think of something witty!",
+                "choices":{
+                    "Present the jewel you carry in your pocket":"choice1.3.2.3.1",
+                    "Praise her":"choice1.3.2.3.2",
+                    "Sing a song for her":"choice1.3.2.3.3"
+                    }
+            },
+            "choice1.3.2.3.1":{
+                "text":"As Skylar and the princess share a dance beneath the moonlit sky, their love story becomes a timeless legend, echoing through the halls of the once-forgotten palace, now alive with the magic of a newfound connection.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.2.3.2":{
+                "text":"You praise her, but she knows you are buttering her and calls the guards! Lol! That took a bad twist!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.2.3.3":{
+                "text":"You start singing to define her beauty! And you keep on singing and singing and singing...",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.3":{
+                "text":"Your eyes hit the thief hiding. He could be a traveller, just like you. You approach him slowly and he tells his idea of killng the king and robbing the kingdom. Well desperate times call for desperate measures. But are you ethical enough?",
+                "choices":{
+                    "Go to the kingdom treasury":"choice1.3.3.1",
+                    "Help him kill the king":"choice1.3.3.2",
+                    "Surrender the thief to the soldier":"choice1.3.3.3"
+                    }
+            },
+            "choice1.3.3.1":{
+                "text":"You decide ethics hold no value before money. You both sneak in the kingdom's treasury. But as soon as you see the stuff in there, your evil mind turns on...",
+                "choices":{
+                    "Lock the thief in":"choice1.3.3.1.1",
+                    "Take the magical mirror":"choice1.3.3.1.2",
+                    "Take the mysterious key":"choice1.3.3.1.3"
+                    }
+            },
+            "choice1.3.3.1.1":{
+                "text":"You lock him there and call the guards. Well you are a man of ethics after all",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.3.1.2":{
+                "text":"The mirror shows you the museum...you slowly touch it and BOOM! You are back in the museum...WHEW!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+              "choice1.3.3.1.3":{
+                "text":"With the newfound key in hand, Skylar and the mysterious thief embark on an epic quest, unlocking the secrets of the abandoned palace and discovering realms beyond imagination, forever altering the course of their destinies.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.3.2":{
+                "text":"Killing the king seems like a devstating but fun idea, ain't it? You discuss about the ways of doing it...",
+                "choices":{
+                    "Leave a snake on the kings bed":"choice1.3.3.2.1",
+                    "Mix poison in his food":"choice1.3.3.2.2",
+                    "Stab the king":"choice1.3.3.2.3"
+                    }
+            },
+              "choice1.3.3.2.1":{
+                "text":"The king, startled by the venomous surprise, realized the true nature of those around him, leading to a cunning reckoning that reshaped the kingdom's fate. And your fate? Let's meet in heaven! Or hell maybe!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+              "choice1.3.3.2.2":{
+                "text":"In a surprising twist, the poisoned food turned out to be a clever ruse, part of an elaborate plan to expose a clandestine plot, leaving the would-be poisoner exposed and justice served. And for you? Have fun in jail!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+              "choice1.3.3.2.3":{
+                "text":"In the aftermath of the fateful decision to stab the king, a ripple of chaos ensued, forever altering the course of the kingdom's destiny. And bear in mind, this is all because of you! And you're never gonna get back to your world!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice1.3.3.3":{
+                "text":"You lure him into thinking you are on his side, but you shout for help and the guards come rushing. The news reaches the king and he is really happy about your deed in catching one the most notorious theives of the kingdom.",
+                "choices":{
+                    "Get a reward from the king":"choice1.3.3.3.1",
+                    "Ask for a job":"choice1.3.3.3.2",
+                    "Ask for help":"choice1.3.3.3.3"
+                    }
+            },
+              "choice1.3.3.3.1":{
+                "text":"Skylar, having uncovered the mysteries of the bone, hands over the captured thief to the palace guards. In gratitude, the king rewards Skylar, opening the door to a new chapter in his life as a respected explorer in the kingdom. But returning to your world? Lol, that's not gonna happen!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+              "choice1.3.3.3.2":{
+                "text":"The king offers you a job and you settle in the kingdom for good away from your monotonous real life!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+              "choice1.3.3.3.3":{
+                "text":"The king gives you a potion to drink and as soon as you drink it, you are transferred back into the real world! Whew! A roller coaster that was!",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice2":{
+                "text":"Skylar, drawn to a mysterious painting, touches it and three doors materialize behind him. Faced with choices, he selects the door adorned with mythical creatures, stepping into a fantastical realm filled with talking animals and enchanting landscapes. Little does he know that his decision sets in motion a unique journey of discovery and adventure.",
+                "choices":{
+                    "wooden door":"choice2.1",
+                    "iron door":"choice2.2",
+                    "golden door":"choice2.3"
+                },"score":"20"
+            },
+            "choice2.1":{
+                "text":" once he opens the wooden door, he finds three things",
+                "choices":{
+                    "wardrobe":"choice2.1.1",
+                    "puzzle":"choice2.1.2",
+                    "globe":"choice2.1.3"
+                },"score":"10"
+            },
+            "choice2.1.1":{
+                "text":"Once he opens the closet he find three different robes form which he can choose one",
+                "choices":{
+                    "royal suit":"choice2.1.1.1",
+                    "soldier shield":"choice2.1.1.2",
+                    "Magician suit":"choice2.1.1.3"
+                },"score":"30"
+            },
+            "choice2.1.1.1":{
+                "text":"On choosing the royal suit. He feel something to be different in him and finds himself loosing his identity and changing into something else.",
+                "choices":{
+                    "he pretends to be a prince":"choice2.1.1.1.1",
+                    "he commands his minister":"choice2.1.1.1.2",
+                    "he meets the king":"choice2.1.1.1.3"
+                },"score":"15"
+            },
+            "choice2.1.1.1.1":{
+                "text":"As Skylar embraces his newfound role, the echo of laughter and music fills the grand halls of the palace, and the once-pretend prince finds himself navigating the complexities of royalty with unexpected ease, unraveling a tale of adventure and regal intrigue.",
+                    "choices":{
+                        "GAMEOVER": ""
+                },"score":"10"
+            },
+            "choice2.1.1.1.2":{
+                "text":"As Skylar, now adorned in regal attire, issues commands to his newfound subjects, the palace echoes with the promise of a realm forever changed by the choices made within the enchanted painting.",
+                "choices": {
+                    "GAMEOVER": ""
+                }
+            },
+            "choice2.1.1.1.3":{
+                "text":"In the regal palace, Skylar's encounter with the king unfolds a tale of ancient prophecies and a quest that transcends time, leaving him with newfound knowledge and the weight of destiny on his shoulders",
+                "choices": {
+                    "GAMEOVER": ""
+                }
+            },
+            "choice2.1.1.2":{
+                "text":"On selecting the shield of the soldier . He feel the place around changing and finds himself in a warzone",
+                "choices":{
+                    "save the queen":"choice2.1.1.2.1",
+                    "help the king":"choice2.1.1.2.2",
+                    "help the king enemy":"choice2.1.1.2.3"
+                }
+            },
+            "choice2.1.1.2.1":{
+                "text":"Embracing the role of a valiant soldier, Skylar bravely fights on the battlefield, demonstrating unparalleled courage and skill. In the end, he not only saves the queen but also discovers the true hero within himself, leaving a legacy that echoes through the annals of time.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.1.1.2.2":{
+                "text":"With the solider suit donned and a determined spirit, Skylar steps onto the battlefield, ready to defend his king and partake in a historic battle that will forever alter the course of his adventure.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.1.1.2.3":{
+                "text":"As Skylar stands on the battlefield, torn between his allegiance to the kings and the unintended consequences of his choice, the consequences of his actions unfold, leaving an indelible mark on the course of the kingdom's history.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.1.1.3":{
+                "text":"on wearing the clock he is taken to the market street and performers his magic tricks ",
+                "choices":{
+                    "harm a girl":"choice2.1.1.3.1",
+                    "kidnap a girl":"choice2.1.1.3.2",
+                    "rob a store":"choice2.1.1.3.3"
+                }
+            },
+            "choice2.1.1.3.1":{
+                "text":"As Skylar's magical performance captivates the audience, he realizes the true power of the enchanted painting, embracing his newfound role as a performer with the ability to transport himself between worlds.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+
+            },
+            "choice2.1.1.3.2":{
+                "text":"As Skylar completes his magical performance, a mysterious figure emerges from the crowd, revealing themselves as a time-traveling wizard. Intrigued by Skylar's abilities, the wizard offers to teach him the secrets of manipulating time, opening the door to a new chapter of extraordinary adventures.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.1.1.3.3":{
+                "text":"As Skylar disappears into the shadows of the night, the stolen artifacts from the enchanted store reveal an unexpected power, opening a portal to a realm where every stolen object carries the echoes of its own mysterious tale, beckoning Skylar to a world of endless adventures. ",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.1.2":{
+                "text":"on solving the puzzle three situation appears before his and he choose",
+                "choices":{
+                    "find a treasure":"choice 2.1.2.1",
+                    "time travel":"choice2.1.2.2",
+                    "to rule the place":"choice2.1.2.3"
+                }
+            },
+            "choice2.1.2.1":{
+                "text":"on choosing this three options appear to choose between to go further",
+                "choices":{
+                    "map":"choice2.1.2.1.1",
+                    "campanion":"choice2.1.2.1.2",
+                    "compass":"choice2.1.2.1.3"
+                }
+            },
+            "choice2.1.2.1.1":{
+                "text":"As Skylar unfolds the ancient map, a sense of adventure courses through him, setting the stage for a thrilling quest where each step unravels new mysteries, and the echoes of the past guide him towards an extraordinary destiny.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choices2.1.2.1.2":{
+                "text":"As Skylar opens the chosen door, a blinding light envelops him, transporting him to a realm where the puzzle, the treasure, and the companion intertwine in a grand adventure, unveiling the secrets of an ancient civilization and rewriting the course of Skylar's destiny.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choices2.1.2.1.3":{
+                "text":"Skylar, now holding the compass, embarks on an epic quest guided by the mysterious painting, unraveling secrets, and charting a course to uncharted realms, leaving behind the enigmatic doors and the treasures of choice.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.1.2.2":{
+                "text":"he is taken to",
+                "choices":{
+                    "to see the future world":"choice2.1.2.2.1",
+                    "to Jurassic world":"choice2.1.2.2.2",
+                    "childhood":"choice2.1.2.2.3"
+                }
+            },
+            "choice2.1.2.2.1":{
+                "text":"As Skylar steps through the chosen door, the puzzle transports him to a future world filled with technological marvels and breathtaking landscapes, signaling the beginning of an extraordinary journey that transcends time and unlocks the mysteries of the universe.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.1.2.2.2":{
+                "text":"As Skylar stands amidst the lush landscapes of the Jurassic world, surrounded by ancient creatures and the echoes of a bygone era, he realizes that his journey through time and space has only just begun, unveiling a realm of limitless possibilities and untold adventures.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.1.2.2.3":{
+                "text":"As Skylar steps through the wooden door, embarking on a journey through time and childhood memories, he realizes that each puzzle solved has woven a tapestry of adventures, leaving him forever connected to the threads of his past and the endless possibilities of the future.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.1.2.3":{
+                "text":" as he decides to rule the place he gets three options ",
+                "choices":{
+                    "he pretends to be a prince": "choice2.1.1.1.1",
+                    "he commands his minister": "choice2.1.1.1.2",
+                    "he meets the king": "choice2.1.1.1.3"
+                }
+            },
+            "choice2.1.3":{
+                "text":"on rotating the globe he will go to three countries which would he pick",
+                "choices":{
+                    "china":"choice2.1.3.1",
+                    "Japan":"choice2.1.3.2",
+                    "Russia":"choice2.1.3.3"
+                }
+            },
+            "choice2.1.3.1":{
+                "text":"he is taken to china where he meets",
+                "choices":{
+                    "king":"choice2.1.3.1.1",
+                    "police":"choice2.1.3.1.2",
+                    "reporter":"choice2.1.3.1.3"
+                }
+            },
+            "choice2.1.3.1.1":{
+                "text":"As Skylar stands at the crossroads of ancient civilizations, a newfound wisdom in his heart, he gazes at the horizon, ready to embark on countless adventures yet to unfold.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.1.3.1.2":{
+                "text":"As Skylar stands at the crossroads of his extraordinary adventure, the choices he makes weave a tapestry of experiences, leaving him forever changed and carrying the echoes of the worlds he touched within the realms of his memory.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.1.3.1.3":{
+                "text":"As Skylar converses with the reporter in China, they unveil a hidden truth that binds their destinies, setting the stage for an unforeseen adventure beyond the realms of time and space.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.1.3.2":{
+                "text":"he is taken to Japan where he meets",
+                "choices":{
+                    "friend":"choice2.1.3.2.1",
+                    "scientist":"choice2.1.3.2.2",
+                    "a person like him":"choice2.1.3.2.3"
+                }
+            },
+            "choice2.1.3.2.1":{
+                "text":"With the newfound treasures and the memories of diverse adventures, Skylar realizes that the magic within the museum was not just confined to its artifacts but extended to the boundless possibilities that awaited beyond its doors, forever shaping his journey as an intrepid explorer.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.1.3.2.2":{
+                "text":"As Skylar stands at the crossroads of his extraordinary journey, the choices made unravel the tapestry of his destiny, leaving behind a legacy of discovery that transcends the boundaries of time and imagination.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.1.3.2.3":{
+                "text":"As Skylar befriends the enigmatic figure in Japan, they embark on a global quest together, unraveling the mysteries of the interconnected worlds they discovered behind the painting and forging an unbreakable bond that transcends time and space.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.1.3.3":{
+                "text":"Once you reach Russia you find",
+                "choices":{
+                    "killer":"choice2.1.3.3.1",
+                    "girl":"choice2.1.3.3.2",
+                    "doctor":"choice2.1.3.3.3"
+                }
+            },
+            "choice2.1.3.3.1":{
+                "text":"As Skylar faces the mysterious killer in Russia, a chilling realization dawns - the choices made in the museum have led him down a path of unexpected danger, weaving a tale of suspense and intrigue that only deepens with every twist and turn.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.1.3.3.2":{
+                "text":"As Skylar and the mysterious girl embark on adventures across Russia, they uncover hidden secrets, forging a timeless connection that transcends borders and echoes through the corridors of history",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.1.3.3.3":{
+                "text":"; In the heart of Russia, Skylar, guided by the mysterious painting, discovers not only the secrets of the past but also encounters a brilliant doctor who unveils a groundbreaking invention, intertwining their destinies with the promise of extraordinary adventures yet to unfold.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.2":{
+                "text":"encounters a monster Trinculo with a crystal in his chest",
+                "choices":{
+                    "fight with the trinculo":"choice2.2.1",
+                    "plead trinculo":"choice2.2.2"
+                }
+            },
+            "choice2.2.1":{
+                "text":"you choose to fight the moster and you are having a tough figh the monster",
+                "choice":{
+                    "monster diappears":"choice2.2.1.1",
+                    "trinculo surrenders":"choice2.2.1.2",
+                    "trinculo uses its super powers":"choice2.2.1.3"
+                }
+            },
+            "choice2.2.1.1":{
+                "text":"as you were  fighting with the monster the monster disappears and t=you find thrre crystals in the ground",
+                "choices":{
+                    "ruby":"choice2.2.1.1.1.1",
+                    "emarald":"choice2.2.1.1.2",
+                    "saphire":"choice2.2.1.1.3"
+                }
+            },
+            "choice2.2.1.1.1.1":{
+                "text":"As Skylar reaches for the radiant ruby, a mysterious energy envelops him, transporting him to a realm where the crystals he chose reveal secrets that intertwine the fate of multiple worlds, leaving him standing at the crossroads of an interdimensional odyssey.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.2.1.1.1.2":{
+                "text":"As Skylar holds the emerald, a radiant energy envelops him, transporting him to a realm where ancient guardians reveal the secrets of the multiverse, leaving him with newfound wisdom and a choice to embark on extraordinary adventures.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.2.1.1.1.3":{
+                "text":": As Skylar holds the chosen sapphire, a mysterious energy envelops him, transporting him to a realm where the crystals, once scattered, converge into a brilliant portal. With a sense of newfound purpose, Skylar steps through the portal, ready for the next chapter of his extraordinary journey.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.2.1.2":{
+                "text":"as you figt with the monster. You seem to have a upper hand and thus the mosnter surrenders to you ",
+                "choices":{
+                    "told the truth":"choice2.2.1.2.1",
+                    "lied to him":"choice2.1.1.2.2",
+                    "remained silent":"choice2.1.1.2.3"
+                }
+            },
+            "choice2.2.1.2.1":{
+                "text":": With Trinculo's revelation echoing in the cavernous room, Skylar contemplates the newfound knowledge, realizing that the interconnected realms behind each door hold the keys to unlocking the mysteries of the universe.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.2.1.2.2":{
+                "text":"As Skylar stands victorious, the defeated Trinculo reveals his true identity and the secret behind the enchanted painting, unraveling a cosmic conspiracy that binds their destinies in ways neither could have imagined.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.2.1.2.3":{
+                "text":"Skylar, having faced the enigmatic Trinculo and witnessed the doors open to unforeseen realms, stands at the crossroads of choice. With the crystal in hand, he contemplates the boundless adventures awaiting him, uncertain yet eager to embrace the mysteries of the unknown",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.2.1.3":{
+                "text":"during the fight tinculo uses its super powers ",
+                "choices":{
+                    "handcuffs skylar":"choice2.2.1.3.1",
+                    "hypnotizes him":"choice2.2.1.3.2",
+                    "takes him to a dark room":"choice2.2.1.3.3"
+                }
+            },
+            "choice2.2.1.3.1":{
+                "text":"Caught in the magical handcuffs, Skylar realizes that the crystal embedded in Trinculo's chest holds the key to breaking the enchantment, leaving him with a crucial decision to make in the unpredictable realm behind the iron door.",
+                "choices":{
+                        "GAMEOVER":""
+                }
+            },
+            "choice2.2.1.3.2":{
+                "text":": Skylar, facing the iron door, courageously defeats the monstrous Trinculo, but as the crystal in its chest shatters, a mysterious energy envelops him, transporting Skylar into an alternate dimension, leaving the choice of his destiny hanging in the balance.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.2.1.3.3":{
+                "text":"As Skylar bravely faces Trinculo in a fierce battle, the crystal in the monster's chest shatters, revealing a portal. In a surprising turn of events, Skylar finds himself transported to a dark room, his next adventure awaiting in the shadows.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.2.2":{
+                "text":"after monster left skylar alone he finds himself in a dark forest ",
+                "choices":{
+                    "monster left him ":"choice2.2.2.1",
+                    "he finds a big teeth wrapped in a leaf ":"choice2.2.2.2",
+                    "he finds a tree house":"choice2.2.2.3"
+                }
+            },
+            "choice2.2.2.1":{
+                "text":": In the heart of the dark forest, under the moonlit canopy, Skylar and the mysterious girl discover a hidden portal that beckons them to embark on a new adventure, unlocking realms yet unknown.",
+                "choice":{
+                    "gameover":""
+                }
+            },
+            "choice2.2.2.2":{
+                "text":"As Skylar contemplates the mysteries of the dark forest, he realizes that the big teeth wrapped in a leaf holds the key to unlocking a profound secret, leading him on an unforeseen journey into the heart of an ancient and mystical realm.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.2.2.3":{
+                "text":"As Skylar ascends the tree house, he glimpses a breathtaking view of a mystical realm beyond, leaving him with the choice to step into the unknown or return to the world he once knew.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.3":{
+                "text":"as you open the golden door you find three chests inside",
+                "choices":{
+                    "gold":"choice2.3.1",
+                    "silver":"choice2.3.2",
+                    "lead":"choice2.3.3"
+                }
+            },
+            "choice2.3.1":{
+                "text":"as you open the golden chest which you give you with these three things",
+                "choices":{
+                    "magical mirror":"choice2.3.1.1",
+                    "flying mat":"choice2.3.1.2",
+                    "enevelope":"choice2.3.1.3"
+                }
+            },
+            "choice2.3.1.1":{
+                "text":"as you raise the mirror to look into the mirror you see ...",
+                "choices":{
+                    "sees his family":"choice2.3.1.1.1",
+                    "sees himself in a war":"choice2.3.1.1.2",
+                    "sees a celestial creature":"choice2.3.1.1.3"
+                }
+            },
+            "choice2.3.1.1.1":{
+                "text":"As Skylar gazes into the magical mirror, witnessing the reflection of his reunited family, he realizes that the true treasure lies not in the gold he uncovered but in the love and connection that transcends the confines of enchanted artifacts.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.3.1.1.2":{
+                "text":"As Skylar stands before the golden door, a reflection of the battles he's yet to face unfolds in the magical mirror. With newfound wisdom, he chooses a path, stepping into the unknown, ready to forge his destiny.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.3.1.1.3":{
+                "text":"As Skylar marvels at the celestial creature in the magical mirror, he realizes that the journey through the golden door has only just begun, with endless realms of wonder awaiting discovery.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.3.1.2":{
+                "text":"with the flying mat in your hand you travel to ",
+                "choices":{
+                    "fort":"choice2.3.1.2.1",
+                    "lake":"choice2.3.1.2.2",
+                    "hill":"choice2.3.1.2.3"
+                }
+            },
+            "choice2.3.1.2.1":{
+                "text":"As Skylar stands before the three chests, each containing a piece of the mysterious golden treasure, he realizes that his choice not only reveals wealth but unlocks a new chapter of enchanting adventures, propelling him into a realm where flying mats and ancient forts intertwine in magical tales.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.3.1.2.2":{
+                "text":": As Skylar stands before the three chests, grappling with the choice, he realizes that the golden door, the flying mat, and the serene lake each hold the promise of a unique adventure. With newfound determination, he selects one, embarking on a journey that will forever alter his perception of reality.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.3.1.2.3":{
+                "text":"With the golden treasure in hand and the flying mat beneath him, Skylar embarks on an extraordinary journey, leaving the enchanted realm behind and carrying the secrets of the magical painting into the unknown.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.3.1.3":{
+                "text":"as you take the envelope in your hand . y though you dont want to open , you try to open the enevelope",
+                "choices":{
+                    "verse":"choice2.3.1.3.1",
+                    "story":"choice2.3.1.3.2",
+                    "blood stains":"choice2.3.1.3.3"
+                }
+            },
+            "choice2.3.1.3.1":{
+                "text":"As Skylar stands before the golden door, contemplating the treasures within the chests, the choice unfolds a destiny that intertwines his fate with ancient secrets, setting the stage for an extraordinary journey beyond the boundaries of imagination.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choices2.3.1.3.2":{
+                "text":"Skylar, standing before the golden door, hesitates before making his choice. As he opens it, he discovers three chests, one filled with gold. An envelope beside it holds a mysterious message that hints at an extraordinary destiny waiting to unfold.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choices2.3.1.3.3":{
+                "text":"As Skylar ponders the choice before him, the golden glow of the doors illuminates his face. With uncertainty in his eyes, he takes a deep breath and steps through one of the doors, sealing his fate within the mysteries that lie beyond.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.3.2":{
+                "text":"You open the silver chest to see",
+                "choices":{
+                    "a magical portion ":"choice2.3.2.1",
+                    "a pen ":"choice2.3.2.2"
+                }
+            },
+            "choice2.3.2.1":{
+                "text":"he drinks the magical portion then he wakes up in a…...",
+                "choices":{
+                    "with dwarfs":"choice2.3.2.1.1",
+                    "a prison":"choice2.3.2.1.2",
+                    "middle of the sea":"choice2.3.2.1.3"
+                }
+            },
+            "choice2.3.2.1.1":{
+                "text":"As Skylar stands before the three chests, his choice unveiling a trove of ancient relics, the magical elixir transports him into a realm filled with dwarfs, marking the beginning of an extraordinary journey beyond the bounds of imagination. ",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.3.2.1.2":{
+                "text":"With a deep breath, Skylar opens the golden door, revealing three chests filled with ancient treasures. Little does he know that this choice will set in motion a series of events leading to a destiny intertwined with the mysteries of time, magic, and the unknown",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.3.2.1.3":{
+                "text":": Skylar, standing at the crossroads of the surreal, contemplates his choices. As he reaches for one of the chests or ponders the effects of the magical potion, the unknown adventure beckons, and the story unfolds with endless possibilities.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.3.2.2":{
+                "text":"the pen automatically starts to write on the air ……...and ask skylar to choose between them",
+                "choices":{
+                    "a pound of flesh":"choice2.3.2.2.1",
+                    "a stack of coins":"choice2.3.2.2.2",
+                    "a bird":"choice2.3.2.2.3"
+                }
+            },
+            "choice2.3.2.2.1":{
+                "text":"As Skylar contemplates the doors, a mysterious voice echoes, guiding him to make a choice that will unravel the secrets of the universe. With anticipation in the air, Skylar takes a deep breath, choosing a path that will define the next chapter of his extraordinary journey.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.3.2.2.2":{
+                "text":"As Skylar contemplates the choices before him, he senses the weight of destiny in the air. With a deep breath, he makes a choice that will shape not only his own fate but unravel the mysteries hidden within the enchanted painting.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            },
+            "choice2.3.2.2.3":{
+                "text":"As Skylar contemplates the three intriguing choices before him, the air hums with anticipation, leaving him standing at the crossroads of discovery and destiny, ready to embark on the next chapter of his extraordinary journey.",
+                "choices":{
+                    "GAMEOVER":""
+                }
+            }
+}
